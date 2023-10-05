@@ -5,7 +5,7 @@ In this case study, I will build two $500,000 investment portfolios containing f
 
 
 ## Outlines:
-Imported two years of data for four stocks
+Imported two years of data for four stocks.
 
 Creating the initial portfolio with equal weighting to each of the stocks
 
