@@ -9,7 +9,7 @@ Imported two years of data for four stocks.
 
 Creating the initial portfolio with equal weighting to each of the stocks.
 
-Analyzing and visualizing the equal-weighted portfolio
+Analyzing and visualizing the equal-weighted portfolio.
 
 Generate 500,000 portfolio scenarios with random weighting to each of the stocks
 
