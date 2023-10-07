@@ -11,6 +11,6 @@ Creating the initial portfolio with equal weighting to each of the stocks.
 
 Analyzing and visualizing the equal-weighted portfolio.
 
-Generate 500,000 portfolio scenarios with random weighting to each of the stocks.
+Generat $500,000 portfolio scenarios with random weighting to each of the stocks.
 
 Identifying the optimal portfolio from the scenarios and visualizing the results.
