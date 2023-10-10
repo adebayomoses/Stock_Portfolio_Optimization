@@ -13,4 +13,4 @@ Analyzing and visualizing the equal-weighted portfolio.
 
 Generating $500,000 portfolio scenarios with random weighting to each of the stocks.
 
-Identifying the optimal portfolio from the scenarios and visualizing the results.
+Identifying the optimal portfolio from the scenarios and visualizing the results
