@@ -9,7 +9,7 @@ In this case study, I will build two $500,000 investment portfolios containing f
 
 Imported two years of data for four stocks(AAPL, MSFT, ORCL, & AMD).
 
-Creating the initial portfolio with equal weighting to each of the stocks.
+Creating the initial portfolio with equal weighting to each of the stocks
 
 Analyzing and visualizing the equal-weighted portfolio.
 
